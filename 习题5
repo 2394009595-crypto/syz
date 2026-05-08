@@ -1,0 +1,4 @@
+int main(int x,n){
+    int s=x/n +1;
+    return s;
+}
